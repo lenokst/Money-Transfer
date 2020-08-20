@@ -10,7 +10,7 @@
 
 ## Результаты
 
-1. 100% не успешных тестов
+https://github.com/lenokst/Money-Transfer/issues/1
 
 ## Общие рекомендации
 
